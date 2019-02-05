@@ -22,7 +22,8 @@ function currentLine(line){
   } else {
     var arry = [];
     for(let i = 0; i < line.length; i++){
-      retune 
+      array.push(` ${i+1}. ${line[i]}`);
     }
+    return 
   }
 }
